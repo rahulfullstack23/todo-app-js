@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+    padding: 10%;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.inputTask{
+text-align: center;
+margin-bottom: 20px;
+font-size: 20px;
+}
